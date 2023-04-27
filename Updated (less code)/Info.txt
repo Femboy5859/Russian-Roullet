@@ -1,0 +1,11 @@
+Heyy, I have learned a bit more python (not alot O-o) **i still suck at it** But this is my updated code of my old russian roullet (that one had alot of code O-o)
+
+also added and removed a game mode in this one
+
+chanelog
+
+-less code/optimized code
+-removed champion mode/anti cheat system
+-added x games (say **x games** then choose a game mode, then a number then you will play that gamemode that many times :3)
+
+Love you and hate you <3
